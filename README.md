@@ -1,6 +1,5 @@
 # EMBER-Hybrid-Detection-SAE-TopK-LGBM
-EMBER 2024 veri seti üzerinde geliştirilen SAE–Top-K–LightGBM hibrit mimarisi ile malware tespiti için kullanılan tüm kodlar, deneysel analizler, grafikler ve LaTeX dosyaları.
-
+EMBER 2024 veri seti üzerinde geliştirilen SAE–Top-K–LightGBM hibrit mimarisi ile malware tespiti için kullanılan tüm kodlar, deneysel analizler ve  grafikler.
 ---
 
 ## 📌 1. Çalışmanın Amacı
