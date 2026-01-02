@@ -9,7 +9,7 @@ içermektedir.
 modeller **5-Fold çapraz doğrulama** ve **zaman bazlı (temporal) test** senaryoları altında değerlendirilmiştir. 
 Elde edilen sonuçlar doğruluk, gecikme süresi, model boyutu ve çıkarım verimliliği gibi ölçütler üzerinden 
 ayrıntılı biçimde raporlanmıştır.
----
+
 
 ##  1. Çalışmanın Amacı
 
